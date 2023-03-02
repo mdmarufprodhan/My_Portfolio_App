@@ -1,3 +1,11 @@
+:root
+{
+  --navy: #2B3A55;
+  --peach:#CE7777;
+  --vintage:#E8C4C4;
+  --skin:#F2E5E5;
+}
+
 .App {
   text-align: center;
 }
